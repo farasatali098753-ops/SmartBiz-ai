@@ -1,0 +1,6 @@
+{
+  "name": "SmartBiz AI",
+  "description": "All-in-one AI Business Automation SaaS Platform for document chatbot, content generation, invoice OCR, sales analytics, and email intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
